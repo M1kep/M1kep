@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m1kep)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m1kep&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **M1kep/M1kep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
